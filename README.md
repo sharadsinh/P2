@@ -22,7 +22,7 @@ Following workflow was considered in this project:
 * Comments were added to logic.php in order to understand code more clearly. 
 
 ### Link to your screencast demo:
-Link will be available soon
+[http://p2.learnforever.me/screencast-p2.mp4] (http://p2.learnforever.me/screencast-p2.mp4)
 
 ### Any details the instructor or TA needs to know, for example, test credentials:
 Not require
