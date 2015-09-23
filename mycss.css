@@ -5,6 +5,7 @@
 	 width:50%;
 	 min-width:600px;
 	 margin-bottom:50px;
+	 text-align: center;
  }	
  img {
 	 display:block;
@@ -25,16 +26,16 @@
  }
  
  .options {
-	 margin-top: 50px;
+	 margin-top: 25px;
+	 margin-bottom: 25px;
  }
  
  label {
 	 padding-top: 15px;
  }
  
- .img {
-	 width:500px;
-	 height:500px;
-	 
+ img {
+	 vertical-align: middle;
+	 margin-top: 25px;
  }
 		 

@@ -9,9 +9,12 @@
     $wordLength = $_GET["number_of_words"];
     $addNumber = $_GET["add_number"];
     $addSymbol = $_GET["add_symbol"];
+    
+    //if nothing provided, create password with 4 words
     if ($wordLength==0 && $addNumber!="on" && $addSymbol!="on") {
         $wordLength=4;
     }
+    
     $password;
     
     //Execute For loop for "number_of_words" times
