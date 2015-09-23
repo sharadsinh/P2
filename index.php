@@ -15,7 +15,8 @@
     <body>
         <div class="container">
         <h1>xkcd Password Generator</h1>
-
+		<br>
+		Generate password by combining familiar words. It's easy to remember and difficult to guess. Add number and/or symbol to add more complexity. <br><br> Provide number of words in below feild and select optional number or symbol checkmarks:
 		<p class="password">
 			<?php echo $trimmedPassword; ?>		</p>
 
